@@ -1,0 +1,1 @@
+timestamp,packet_size,ttl,proto,csum,src_ip,dst_ip,src_port,dst_port,tcp_flag,type_icmp,code_icmp,csum_icmp,port_no,rx_bytes_ave,tx_bytes_ave,request_type
